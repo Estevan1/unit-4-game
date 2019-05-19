@@ -2,10 +2,6 @@
     box-sizing: border-box
 }
 
-body {
-    background: url('..images/nebula.jpg')
-}
-
 .jumbotron {
     text-align: center;
     font-size: xx-large;
@@ -15,4 +11,6 @@ img {
     height: 80%;
     width: 80%;
     margin-left: 15%;
+    border-radius: 90%;
 }
+
